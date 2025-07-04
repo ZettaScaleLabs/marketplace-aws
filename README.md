@@ -20,6 +20,13 @@ This command lists the plugins currently activated on the server:
 curl http://{$IP}:9000/api/v1/plugins
 ```
 
+#### Output : 
+<html>
+     <body>
+          <pre style="word-wrap: break-word; white-space: pre-wrap;">["admin","remote_api","rest","rmw_zenoh"]</pre>
+     </body> 
+</html>
+
 ### 2.  Activate and Configure the fs Storage Plugin
 Use the following command to activate and configure the filesystem-based (fs) storage plugin:
 ```bash
