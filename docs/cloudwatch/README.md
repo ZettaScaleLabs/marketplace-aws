@@ -40,6 +40,10 @@ Your EC2 must be linked to an instance-profile role with the policy:
 
 ## 🔧 Configure Cloudwatch Agent
 
+> [!WARNING]
+> ⚠️ **Careful:** All configurations defined by the administration port will be deleted when the zenoh service is restarted.
+
+
 ### 1.  Activate and Configure the fs Storage Plugin
 Use the following command to activate and configure the filesystem-based (fs) storage plugin:
 ```bash
