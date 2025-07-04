@@ -60,6 +60,9 @@ curl -X PUT \
 
 ### 3. Create a CloudWatch Agent Configuration File Template
 
+#### File:
+cloudwatch.json
+
 ```
 {
   "logs": {
