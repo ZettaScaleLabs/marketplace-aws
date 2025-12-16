@@ -8,13 +8,13 @@
 | Mtls   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:     |      :white_check_mark:    |:white_check_mark:
 | User/password   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:     |      :white_check_mark:    |:white_check_mark: 
 |  **Features** 
-| ACL   | Limited     |   :white_check_mark:       |     :white_check_mark:   |      :white_check_mark:   |:white_check_mark: 
+| ACL   | :white_check_mark:     |   :white_check_mark:       |     :white_check_mark:   |      :white_check_mark:   |:white_check_mark: 
 | Admin   | :no_entry_sign:     |   :white_check_mark:       |      Partial     |      Partial    |:white_check_mark: 
 | DDS   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:    |      :no_entry_sign:    |:no_entry_sign: 
 | MQTT   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark: 
 | Record & replay   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:      |      :no_entry_sign:    |:no_entry_sign: 
 | rocksdb   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:   |      :no_entry_sign:    |:no_entry_sign: 
-| Stats   | Limited     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark: 
+| Stats   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark: 
 |  **Storage** 
 | File system   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:    |     :no_entry_sign:   |:no_entry_sign: 
 | Influxdbv1   | :white_check_mark:     |   :no_entry_sign:        |     :no_entry_sign:      |     :no_entry_sign:      |:no_entry_sign:  
@@ -22,7 +22,7 @@
 | Memory   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark:
 | Minio   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |       :white_check_mark: |:white_check_mark:
 | S3   | :white_check_mark:     |   :white_check_mark:       |       :white_check_mark:   |      :white_check_mark:   |:white_check_mark:
-| Shared memory   | :no_entry_sign:   |   :white_check_mark:       |    :no_entry_sign:   |    :no_entry_sign:   |:no_entry_sign: 
+| Shared memory   | :white_check_mark:   |   :white_check_mark:       |    :no_entry_sign:   |    :no_entry_sign:   |:no_entry_sign: 
 
 
 --- 
