@@ -8,16 +8,16 @@
 | Mtls   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:     |      :white_check_mark:    |:white_check_mark:
 | User/password   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:     |      :white_check_mark:    |:white_check_mark: 
 |  **Features** 
-| ACL   | :white_check_mark:     |   :white_check_mark:       |     :white_check_mark:   |      :white_check_mark:   |:white_check_mark: 
+| ACL   | Partial     |   :white_check_mark:       |     :white_check_mark:   |      :white_check_mark:   |:white_check_mark: 
 | Admin   | :no_entry_sign:     |   :white_check_mark:       |      Partial     |      Partial    |:white_check_mark: 
 | DDS   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:    |      :no_entry_sign:    |:no_entry_sign: 
 | MQTT   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark: 
-| Record & replay   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:      |      :no_entry_sign:    |:no_entry_sign: 
+| Record & replay   | :no_entry_sign:      |   :white_check_mark:       |      :no_entry_sign:      |      :no_entry_sign:    |:no_entry_sign: 
 | rocksdb   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:   |      :no_entry_sign:    |:no_entry_sign: 
-| Stats   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark: 
+| Stats   | Partial   |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark: 
 |  **Storage** 
 | File system   | :white_check_mark:     |   :white_check_mark:       |      :no_entry_sign:    |     :no_entry_sign:   |:no_entry_sign: 
-| Influxdbv1   | :white_check_mark:     |   :no_entry_sign:        |     :no_entry_sign:      |     :no_entry_sign:      |:no_entry_sign:  
+| Influxdbv1   | :white_check_mark:     |   :white_check_mark:          |     :no_entry_sign:      |     :no_entry_sign:      |:no_entry_sign:  
 | Influxdbv2   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark: 
 | Memory   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |      :white_check_mark:    |:white_check_mark:
 | Minio   | :white_check_mark:     |   :white_check_mark:       |      :white_check_mark:    |       :white_check_mark: |:white_check_mark:
